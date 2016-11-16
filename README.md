@@ -1,4 +1,4 @@
-SparkFun ISL29125 Breakout Arduino Library
+SparkFun ISL29125 Breakout PlatformIO Library
 ==========================================
 
 [![ISL29125 Breakout](https://cdn.sparkfun.com//assets/parts/9/6/7/7/12829-01.jpg)   
@@ -8,9 +8,6 @@ Supporting code for the ISL29125 RGB Light Sensor.
 
 Repository Contents
 -------------------
-
-* **/examples** - Example sketches for the library (.ino). Run these from the Arduino IDE. 
-* **/src** - Source files for the library (.cpp, .h).
 * **library.properties** - General library properties for the Arduino package manager. 
 
 Documentation
